@@ -12,7 +12,7 @@ We are an open-source organization focused on practical tools, clean experiences
 
 ## More is on the way
 
-The AkiZip application is our first release, not the limit of the organization. We are working toward more useful, focused open-source projects and will share them here as they take shape. Read our [blog](https://blog.akizip.com) for project updates and development logs.
+The AkiZip application is our first release, not the limit of the organization. We are working toward more useful, focused open-source projects and will share them here as they take shape. Read our [blog](https://blog.akizip.top) for project updates and development logs.
 
 ## Core team
 
