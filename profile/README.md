@@ -44,7 +44,7 @@ Ideas, bug reports, translations, and pull requests are welcome. Explore our [re
 A modern archive manager for the Linux desktop, built with GTK 4 and libadwaita. It keeps compression and extraction simple while supporting the formats people use every day.
 
 <p>
-  <a href="https://akizip.com"><img alt="AkiZip website" src="https://img.shields.io/badge/Website-akizip.com-3584e4?style=flat-square"></a>
+  <a href="https://www.akizip.top"><img alt="AkiZip website" src="https://img.shields.io/badge/Website-akizip.top-3584e4?style=flat-square"></a>
   <a href="https://github.com/AkiZip/AkiZip/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/AkiZip/AkiZip?style=flat-square"></a>
   <a href="https://github.com/AkiZip/AkiZip/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/AkiZip/AkiZip?style=flat-square"></a>
   <a href="https://github.com/AkiZip/AkiZip/blob/master/COPYING"><img alt="License" src="https://img.shields.io/github/license/AkiZip/AkiZip?style=flat-square"></a>
